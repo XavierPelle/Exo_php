@@ -1,0 +1,13 @@
+<h1 class="d-flex justify-content-center text-warning">Qui sommes nous?</h1>
+<p class="text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam inventore aut, doloremque, aperiam doloribus magnam harum dicta tempore fugiat esse, obcaecati impedit maxime porro. Ipsam asperiores repellat tempore quam fugit.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quibusdam ullam a, dicta nobis, magnam et esse modi officia perspiciatis repudiandae sit fugiat sunt nostrum eveniet quos sint nihil! Laborum.
+    Debitis cupiditate quibusdam sint architecto assumenda earum velit odio, modi eius tempora et dolorem aperiam quo doloribus ratione quaerat, dicta cumque, quia dolor omnis. Sed maxime corrupti deserunt voluptatem neque?
+    Porro veritatis rem error necessitatibus ad consequuntur incidunt ab mollitia quam. Ipsa aliquid totam tempora sunt, officiis, velit quas magnam dolorum vel, ad cumque harum error blanditiis unde obcaecati iure.
+    Quae minima illo, cumque aspernatur id iste earum nostrum omnis. Et perspiciatis, est corporis nobis expedita consequatur nesciunt. Ratione nihil est totam facere quos perferendis rem nisi alias maiores modi.
+    Recusandae temporibus maiores odit, tempora nobis nemo explicabo odio ipsa harum iste a unde sunt perferendis officia delectus sed eum eveniet quae vitae labore, corporis in commodi deleniti facere. Soluta!
+    At dolores, ipsam quidem corrupti nam iure, illum inventore error architecto mollitia quos enim? Sequi nam libero magnam in obcaecati, consectetur, nostrum tempore velit asperiores eum perferendis, ratione porro eaque.
+    Suscipit ea unde quisquam. In, nihil neque pariatur iste officia quidem ipsam nobis ipsum. Ad aliquid praesentium libero distinctio. Reprehenderit cumque et dolores rem autem laboriosam possimus! Quam, magnam minus.
+    Veniam distinctio tempore fugiat obcaecati exercitationem corrupti incidunt sunt ipsa quisquam mollitia temporibus sit, magni dolore cupiditate sapiente voluptas, eveniet modi sed culpa possimus? Earum maxime magni optio repellat ea!
+    Voluptates consequuntur sed dolor assumenda alias sunt nihil perferendis tempore qui corporis voluptatum quia vitae, accusamus molestias voluptatibus, nobis delectus culpa, nostrum aliquam natus. Quasi accusamus non nihil cum. Quas?
+    Dolores in nemo a. Culpa iure fugit, obcaecati quibusdam similique quas ab voluptatum deserunt earum exercitationem? Soluta temporibus amet, qui omnis nulla reprehenderit ut praesentium mollitia provident culpa at autem.
+</p>
